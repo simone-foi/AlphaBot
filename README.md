@@ -19,6 +19,20 @@ ES 004: Movimento alphabot con incremento di velocita
   --> client
   
   --> server
+
+ES 005: Sensori movimento
+
+--> client
+
+--> server
+
+ES 006: Login
+
+--> Client
+
+--> Server
+
+--> Database
   
 ES 005: Movimento alphabot con riconoscimento ostacoli grazie a sensori
 
