@@ -33,9 +33,3 @@ ES 006: Login
 --> Server
 
 --> Database
-  
-ES 005: Movimento alphabot con riconoscimento ostacoli grazie a sensori
-
-  --> client
-  
-  --> server
