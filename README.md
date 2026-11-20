@@ -33,3 +33,17 @@ ES 006: Login
 --> Server
 
 --> Database
+
+ES 007: Storico login
+
+--> Client
+
+--> Server
+
+ES 008: Simulazione verifica
+
+--> Client
+
+--> Server
+
+
